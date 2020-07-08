@@ -5,6 +5,10 @@
     padding: 20px 20px 20px 40px;
 }
 
+.page-header span{
+    color: #FE6860;
+}
+
 .page-header h1 {
     text-decoration: none;
 }
