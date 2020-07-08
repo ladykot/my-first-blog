@@ -1,0 +1,58 @@
+.page-header {
+    background-color: #F3C9BF;
+    margin-top: 0;
+    margin-bottom: 50px;
+    padding: 20px 20px 20px 40px;
+}
+
+.page-header h1 {
+    text-decoration: none;
+}
+
+.page-header a {
+    color: #FE6860;
+    font-size: 50px;
+}
+
+.content {
+    margin-left: 40px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: Yellowtail;
+}
+
+
+.date {
+    color: #F3C9BF;
+}
+
+.save {
+    float: right;
+}
+
+.post-form textarea,
+.post-form input {
+    width: 100%;
+}
+
+.top-menu,
+.top-menu:hover,
+.top-menu:visited {
+    color: #ffffff;
+    float: right;
+    font-size: 26pt;
+    margin-right: 20px;
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.post h2 a,
+.post h2 a:visited {
+    color: #FE8A71;
+}
